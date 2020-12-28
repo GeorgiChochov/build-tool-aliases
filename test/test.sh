@@ -1,6 +1,7 @@
 CURRENT_DIR=$(dirname $(realpath $0))
 
 TOOLS=(
+  mvn
 )
 
 BUILD_ALIAS_DIR="$CURRENT_DIR/../src"

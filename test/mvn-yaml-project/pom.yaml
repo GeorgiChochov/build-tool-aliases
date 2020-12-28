@@ -1,0 +1,9 @@
+modelVersion: 4.0.0
+
+groupId: org.example
+artifactId: mvn-yaml-project
+version: 1.0-SNAPSHOT
+
+properties:
+  maven.compiler.source: 11
+  maven.compiler.target: 11
