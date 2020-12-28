@@ -2,6 +2,7 @@ CURRENT_DIR=$(dirname $(realpath $0))
 
 TOOLS=(
   mvn
+  gradle
 )
 
 BUILD_ALIAS_DIR="$CURRENT_DIR/../src"
