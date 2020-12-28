@@ -4,6 +4,7 @@ TOOLS=(
   mvn
   gradle
   sbt
+  mill
 )
 
 BUILD_ALIAS_DIR="$CURRENT_DIR/../src"
